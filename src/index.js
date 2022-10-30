@@ -6,7 +6,7 @@ import './index.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
- <Apps name=" asoriba" apname ="twitter"/>
+        <Apps/>
 );
 
 
