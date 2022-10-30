@@ -1,0 +1,17 @@
+.my-input, .my-input:focus{
+    border: none !important;
+    border-bottom: 1px solid #ccc !important;
+}
+
+.parent{
+    width: 60%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.signinBtn{
+    width: 100% !important;
+    color: #fff !important;
+    background-color: var(--primary-blue) !important;
+    border-radius: 20px !important;
+}
