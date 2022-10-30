@@ -1,0 +1,29 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(2, 6, 24);
+    margin: 1px;
+    border: 1px solid #00acee;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+h1{
+    color: #00acee;
+    text-align: center;
+}
+
+@media screen and (min-width: 700px) {
+    body{
+        background-color: #000405;
+    }
+    
+}
+
+@media screen and (max-width:699px) {
+
+    body h1{
+        font-size: smaller;
+    }
+
+    
+}
